@@ -24,7 +24,7 @@ https://www.alicloud.ru
 1. 克隆仓库
 
 ```yaml
-git clone [123](https://github.com/gugetang/clean-nav).git
+git clone https://github.com/gugetang/clean-nav.git
 ```
 
 2. 根目录文件 `config.yml` 添加或者修改站点，其格式为：
