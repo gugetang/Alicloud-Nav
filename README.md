@@ -17,7 +17,7 @@ https://www.alicloud.ru
 
 ## 📷运行截图
 
-![简约导航](docs/screenshots/app-1165x715.png)
+![简约导航](https://img.alicloud.ru/UIGq77.png))
 
 ## 📝部署使用
 
